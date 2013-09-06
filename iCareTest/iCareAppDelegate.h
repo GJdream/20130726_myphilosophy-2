@@ -16,4 +16,6 @@
 
 @property (strong, nonatomic) iCareViewController *viewController;
 
+@property (strong, nonatomic) UIImageView *splashView;
+
 @end
